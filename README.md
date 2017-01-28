@@ -5,7 +5,7 @@
 以下是環境以及所需的工作安裝步驟，請按照順序完成。
 
 #### Java(JRE):
-若你的電腦沒有安裝Java環境，請先安裝Java(JRE即可)。到[這裡](https://www.java.com/zh_TW/download/) 下載Java，請注意是 32bit/64bit 版本，務必要挑對符合你電腦的版本，若實在不知道自己的電腦是32bit/64bit，就請身旁熟悉而且可以信任的朋友解答一下。安裝Java很簡單，基本上就是next/next/finish的概念。
+若你的電腦沒有安裝Java環境，請先安裝Java(JRE即可)。到 [這裡](https://www.java.com/zh_TW/download/) 下載Java，請注意是 32bit/64bit 版本，務必要挑對符合你電腦的版本，若實在不知道自己的電腦是32bit/64bit，就請身旁熟悉而且可以信任的朋友解答一下。安裝Java很簡單，基本上就是next/next/finish的概念。
 
 #### Sikuli
 這是一套以圖形比對的自動化測試工具，你可以在 [這裡](https://launchpad.net/sikuli/+download)下載sikulixsetup-1.1.0.jar ，有安裝好Java的話，基本上也是雙點之後就自動會解壓安裝好。若真的不習慣官方網站這樣的安裝方式，這裡也可以直接下載，解壓縮後，就完成了。
